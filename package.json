@@ -55,6 +55,7 @@
     "swiper": "^3.3.0",
     "underscore": "^1.8.3",
     "url-loader": "^0.5.7",
-    "webpack": "^1.12.11"
+    "webpack": "^1.12.11",
+    "weinre": "^2.0.0-pre-I0Z7U9OV"
   }
 }
